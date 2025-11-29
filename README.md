@@ -92,9 +92,9 @@ The backend analyzes model outputs to generate human-readable insights, such as:
 
 ---
 ## Authors
-- Siddesh Mangarule  
-- Ravindra Shelar  
-- Amit Hajare  
+- Siddesh Mangarule  – [@SIDDHESH8282](https://github.com/SIDDHESH8282)
+- Ravindra Shelar  – [@Luminous-afk](https://github.com/Luminous-afk)
+- Amit Hajare  – [@Naruto1505](https://github.com/Naruto1505)
 
 ---
 
