@@ -88,7 +88,8 @@ The backend analyzes model outputs to generate human-readable insights, such as:
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+![WhatsApp Image 2025-11-29 at 20 06 59_e4bac1e2](https://github.com/user-attachments/assets/8b1aad8b-126b-4c6e-98ea-8ce03d30523c)
+
 
 ---
 ## Authors
