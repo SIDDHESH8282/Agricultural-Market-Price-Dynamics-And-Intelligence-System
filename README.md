@@ -89,7 +89,19 @@ The backend analyzes model outputs to generate human-readable insights, such as:
 ## 📸 Screenshots
 
 ![WhatsApp Image 2025-11-29 at 20 06 59_e4bac1e2](https://github.com/user-attachments/assets/8b1aad8b-126b-4c6e-98ea-8ce03d30523c)
-
+![WhatsApp Image 2025-11-29 at 20 07 14_91b21a05](https://github.com/user-attachments/assets/69e508fc-4304-4365-9ea0-c987373c2a61)
+![WhatsApp Image 2025-11-29 at 20 07 13_0bd8c19c](https://github.com/user-attachments/assets/6b45b4de-1e0e-445f-940a-2807f943a142)
+![WhatsApp Image 2025-11-29 at 20 07 13_552593db](https://github.com/user-attachments/assets/79807d47-d1ea-40d9-b9b7-009c0ede7589)
+![WhatsApp Image 2025-11-29 at 20 07 13_60f3cfdd](https://github.com/user-attachments/assets/d8c88131-ff11-42a3-bbba-f61c14df7ccd)
+![WhatsApp Image 2025-11-29 at 20 07 12_16e5c7a7](https://github.com/user-attachments/assets/a18ffaf4-eeb6-43b7-ace9-0d77e823a9ae)
+![WhatsApp Image 2025-11-29 at 20 07 12_9389ca80](https://github.com/user-attachments/assets/dd29a323-d7b0-4688-96ee-13ad24439594)
+![WhatsApp Image 2025-11-29 at 20 07 12_40be040f](https://github.com/user-attachments/assets/dcab8198-8517-45cf-8734-e5ea8ab2e519)
+![WhatsApp Image 2025-11-29 at 20 07 12_0d9148e6](https://github.com/user-attachments/assets/8554cd73-6883-4beb-afbe-b6e47aaa50a6)
+![WhatsApp Image 2025-11-29 at 20 07 11_7ad97687](https://github.com/user-attachments/assets/e3ce825f-ba3f-4bc6-829b-dc186dd83cd2)
+![WhatsApp Image 2025-11-29 at 20 07 11_4db86359](https://github.com/user-attachments/assets/23246360-e51f-4fa1-bfa2-67842cd2530b)
+![WhatsApp Image 2025-11-29 at 20 07 11_0ed67b3a](https://github.com/user-attachments/assets/b3e50777-719f-442a-a0ae-57ba38a26a0f)
+![WhatsApp Image 2025-11-29 at 20 07 11_1094dfe7](https://github.com/user-attachments/assets/0b41a9e7-31bb-4b18-92cc-446b9f6e0d86)
+![WhatsApp Image 2025-11-29 at 20 07 10_cc7a53e3](https://github.com/user-attachments/assets/1b9d945a-cacf-4e17-aa65-badbdc64de68)
 
 ---
 ## Authors
