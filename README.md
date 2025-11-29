@@ -91,6 +91,12 @@ The backend analyzes model outputs to generate human-readable insights, such as:
 *(Add your screenshots here)*
 
 ---
+## Authors
+- Siddesh Mangarule  
+- Ravindra Shelar  
+- Amit Hajare  
+
+---
 
 ## 🤝 Contributing
 
